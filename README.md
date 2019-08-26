@@ -1,4 +1,4 @@
-# modified-baseline-for-lightfield-stitching
+# Modified Baseline for Light Field Stitching
 Modified Baseline for Light Field Stitching
 
 Yilei Chen, Ping An, Xinpeng Huang, Chunli Meng, Qiang Wu
