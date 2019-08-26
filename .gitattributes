@@ -1,3 +1,2 @@
-*.Makefile linguist-language=C++ 
 *.m linguist-language=C++ 
 *.py linguist-language=C++ 
